@@ -1,0 +1,13 @@
+{
+  "ip": "22.23.24.25",
+  "host": "fly.io",
+  "private": true,
+  "dev": "instance-red.archetypal.fly.io",
+  "url": "app.archetypal.com",
+  "health": true,
+  "title": "Rolling",
+  "description": "Describe purpose - maybe take from package.json",
+  "version": "0.1.12",
+  "repo_ui": "github.com/1",
+  "repo_content": "github.com/2"
+}
