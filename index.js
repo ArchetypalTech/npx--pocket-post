@@ -1,8 +1,11 @@
+#!/usr/bin/env node
 import { readFileSync, existsSync } from "fs";
 import PocketBase from "pocketbase";
 const pb = new PocketBase("https://pb.cycocyan.xyz");
 const METAFILE = "./meta.json";
 const { EMAIL, PASSWORD } = process.env;
+
+console.log(process.argv[2]);
 
 const authData = await pb
   .collection("_superusers")

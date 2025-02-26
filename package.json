@@ -3,7 +3,7 @@
   "version": "0.0.7",
   "description": "",
   "type": "module",
-  "bin": "./bin.js",
+  "bin": "./index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/archetypaltech/npx--pocket-post"
