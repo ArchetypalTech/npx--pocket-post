@@ -3,7 +3,6 @@
   "version": "0.0.6",
   "description": "",
   "type": "module",
-  "main": "index.js",
   "bin": "./bin.js",
   "repository": {
     "type": "git",
